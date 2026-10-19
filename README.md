@@ -28,9 +28,10 @@
   <p align="center">
     <a href="#-about-me"><b>[ About Me ]</b></a> &nbsp;•&nbsp;
     <a href="#%EF%B8%8F-cyber-terminal--battle-station"><b>[ Battle Station ]</b></a> &nbsp;•&nbsp;
-    <a href="#-backend-architecture--engineering-pipeline"><b>[ Architecture Pipeline ]</b></a> &nbsp;•&nbsp;
+    <a href="#-backend-core--architecture-pipeline"><b>[ 3D Architecture ]</b></a> &nbsp;•&nbsp;
+    <a href="#-featured-repositories"><b>[ Highlighted Repos ]</b></a> &nbsp;•&nbsp;
     <a href="#%EF%B8%8F-tech-arsenal"><b>[ Tech Arsenal ]</b></a> &nbsp;•&nbsp;
-    <a href="#-github-analytics"><b>[ Analytics ]</b></a> &nbsp;•&nbsp;
+    <a href="#-github-live-analytics"><b>[ Analytics ]</b></a> &nbsp;•&nbsp;
     <a href="#-connect-with-me"><b>[ Connect ]</b></a>
   </p>
 
@@ -102,10 +103,17 @@ noman@core-server:~$ python3 -m backend.metrics --verbose
 
 ---
 
-### ⚡ Backend Architecture & Engineering Pipeline
+### ⚡ Backend Core & Architecture Pipeline
 
 <div align="center">
-  <p><b>How I architect end-to-end backend workflows from incoming requests to database persistence:</b></p>
+
+  <!-- 3D Backend Core Neural Render -->
+  <img src="./assets/backend_core.jpg" alt="3D Backend Neural Engine Core" width="100%" style="border-radius: 14px; border: 2px solid #ff0033; box-shadow: 0 0 30px rgba(255, 0, 51, 0.35);" />
+  <br/>
+  <sub><b><font color="#ff0033">⚙️ 3D Neural Engine Core: High-Throughput Python Microservices & PostgreSQL Mesh</font></b></sub>
+
+  <br/><br/>
+
 </div>
 
 ```mermaid
@@ -144,6 +152,35 @@ flowchart LR
     <td valign="top">Eliminating N+1 query bottlenecks via <code>select_related</code> and <code>prefetch_related</code> for lightning performance.</td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+### 📌 Featured Repositories
+
+<div align="center">
+  <p><b>Explore live repositories showcasing clean API design, authentication, and full-stack architecture:</b></p>
+
+  <table border="0" cellpadding="4" cellspacing="4">
+    <tr>
+      <td>
+        <a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=Mini-Bank-Management-System-API&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Mini Bank API" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=My-Portfolio-Website&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Portfolio Website" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <br/>
 
@@ -214,22 +251,25 @@ flowchart LR
 
 ---
 
-### 📊 GitHub Analytics & Trophies
+### 📊 GitHub Live Analytics
 
 <div align="center">
 
-  <!-- GitHub Trophy Showcase -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdullahNoman-01&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin_w=10" alt="GitHub Trophies" />
-  </a>
+  <!-- Live Achievements & Telemetry Grid (100% Guaranteed Uptime) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Contributions-139%2B_Total-ff0033?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Current_Streak-Active_🔥-ff0033?style=for-the-badge&logo=flame&logoColor=red&labelColor=000000" alt="Streak" />
+    <img src="https://img.shields.io/badge/Public_Repos-9_Active-ff0033?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" alt="Repos" />
+    <img src="https://img.shields.io/badge/Architecture-Backend_DRF-ff0033?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" alt="Architecture" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <!-- Stats & Streak Cards side-by-side in Red & Black Theme -->
   <table border="0" cellpadding="0" cellspacing="6">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=AbdullahNoman-01&show_icons=true&theme=blood&hide_border=false&border_color=ff0033&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033" alt="Abdullah's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AbdullahNoman-01&show_icons=true&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Abdullah's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
         <img src="https://streak-stats.demolab.com/?user=AbdullahNoman-01&theme=blood&hide_border=false&border=ff0033&background=000000&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
@@ -239,28 +279,63 @@ flowchart LR
 
   <!-- Top Languages Card (Blood Red / Dark) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNoman-01&layout=compact&theme=blood&hide_border=false&border_color=ff0033&bg_color=000000&title_color=ff0033&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNoman-01&layout=compact&bg_color=000000&title_color=ff0033&text_color=ffffff&border_color=ff0033" alt="Top Languages" />
   </p>
 
-  <!-- Interactive Contribution Activity Graph (Red Neon Line) -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahNoman-01&theme=github-dark&hide_border=false&border=ff0033&bg_color=000000&color=ff0033&line=ff0033&point=ff3366" alt="Activity Graph" width="95%" />
-  </p>
-
-</div>
-
----
-
-### 🐍 Contribution Activity Snake (Crimson Red & Dark)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" onerror="this.src='https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg'" width="100%" />
 </div>
 
 <br/>
 
 <!-- Glowing Animated Red Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+### 🛡️ Production Engineering Standards
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr style="background-color: #0d0003; color: #ff0033;">
+    <th width="33%" align="left">🔐 Security & Auth</th>
+    <th width="33%" align="left">⚡ Query Optimization</th>
+    <th width="34%" align="left">📦 Robust Architecture</th>
+  </tr>
+  <tr style="background-color: #000000; color: #e6e6e6;">
+    <td valign="top">
+      • Strict JWT token expiration & refresh handling<br/>
+      • Role-based permission classes in DRF<br/>
+      • Environment variable secret isolation<br/>
+      • Throttling & rate-limiting against DDoS
+    </td>
+    <td valign="top">
+      • Zero N+1 queries via <code>select_related</code><br/>
+      • Foreign key indexation on high-traffic fields<br/>
+      • Database transactions with atomic rollbacks<br/>
+      • Aggregation & queryset caching strategies
+    </td>
+    <td valign="top">
+      • Clean separation: Views, Services, Serializers<br/>
+      • Modular app structure for scalability<br/>
+      • Strict schema migrations & validation<br/>
+      • Postman automated endpoint collection tests
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+### 🎧 Cyber Coding Soundscape
+
+<div align="center">
+  <p>
+    <b><font color="#ff0033">🎵 Current Focus Soundtrack:</font></b>
+    <code>Dark Synthwave • Cyberpunk 2077 Electro • Deep Lofi Coding Beats</code> 🎧
+  </p>
+</div>
 
 ---
 
