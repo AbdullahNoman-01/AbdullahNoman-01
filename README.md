@@ -1,70 +1,158 @@
 <div align="center">
 
-  <!-- 3D Header Banner -->
-  <img src="./assets/banner.jpg" alt="Abdullah Al Noman - Backend Engineer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 242, 254, 0.2);" />
+  <!-- 3D Red & Black Header Banner -->
+  <img src="./assets/banner.jpg" alt="Abdullah Al Noman - Backend Engineer Cyberpunk Banner" width="100%" style="border-radius: 14px; border: 2px solid #ff0033; box-shadow: 0 0 35px rgba(255, 0, 51, 0.45);" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG Headline -->
+  <!-- Dynamic Typing SVG Headline (Neon Crimson Red) -->
   <a href="https://github.com/AbdullahNoman-01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdullah+Al+Noman;%F0%9F%92%BB+CSE+Student+%7C+Python+%26+Django+Developer;%F0%9F%9A%80+Backend+Enthusiast+%26+REST+API+Architect;%F0%9F%8C%B1+Building+Scalable+Web+Applications;%E2%9A%A1+Learn.+Build.+Improve.+Repeat.+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1+Hi%2C+I'm+Abdullah+Al+Noman;%F0%9F%94%A5+CSE+Student+%7C+Python+%26+Django+Backend+Developer;%F0%9F%9B%A1%EF%B8%8F+Designing+High-Performance+REST+APIs;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%26+Database+Architecture+Specialist;%F0%9F%9A%80+%22Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat.%22" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Quick Status Badges -->
+  <!-- Quick Status Badges (Red & Black Aesthetic) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AbdullahNoman-01&label=Profile%20Views&color=00f2fe&style=for-the-badge&logo=eye" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Role-Backend%20Engineer-0d1117?style=for-the-badge&logo=python&logoColor=00f2fe&labelColor=161b22" alt="Role" />
-    <img src="https://img.shields.io/badge/Education-CSE%20Undergrad-0d1117?style=for-the-badge&logo=googleacademic&logoColor=4facfe&labelColor=161b22" alt="Education" />
-    <img src="https://img.shields.io/badge/Location-Bangladesh-0d1117?style=for-the-badge&logo=googlemaps&logoColor=ff4b4b&labelColor=161b22" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-0d1117?style=for-the-badge&logo=codeforces&logoColor=00ff88&labelColor=161b22" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=AbdullahNoman-01&label=Profile%20Views&color=ff0033&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Role-Backend%20Architect-000000?style=for-the-badge&logo=python&logoColor=ff0033&labelColor=1a0005" alt="Role" />
+    <img src="https://img.shields.io/badge/Focus-Django%20%26%20DRF-000000?style=for-the-badge&logo=django&logoColor=ff0033&labelColor=1a0005" alt="Focus" />
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff3366&labelColor=1a0005" alt="Database" />
+    <img src="https://img.shields.io/badge/Status-Active%20&%20Building-000000?style=for-the-badge&logo=githubactions&logoColor=ff0033&labelColor=1a0005" alt="Status" />
   </p>
 
-  <!-- Quick Navigation Anchor Links -->
+  <!-- Glowing Animated Red Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+  <!-- Navigation Anchor Links -->
   <p align="center">
-    <a href="#-about-me"><b>About Me</b></a> •
-    <a href="#%EF%B8%8F-tech-stack"><b>Tech Stack</b></a> •
-    <a href="#-featured-projects"><b>Projects</b></a> •
-    <a href="#-github-analytics"><b>Analytics</b></a> •
-    <a href="#-current-goals"><b>Goals</b></a> •
-    <a href="#-connect-with-me"><b>Contact</b></a>
+    <a href="#-about-me"><b>[ About Me ]</b></a> &nbsp;•&nbsp;
+    <a href="#%EF%B8%8F-cyber-terminal--battle-station"><b>[ Battle Station ]</b></a> &nbsp;•&nbsp;
+    <a href="#-backend-architecture--engineering-pipeline"><b>[ Architecture Pipeline ]</b></a> &nbsp;•&nbsp;
+    <a href="#%EF%B8%8F-tech-arsenal"><b>[ Tech Arsenal ]</b></a> &nbsp;•&nbsp;
+    <a href="#-github-analytics"><b>[ Analytics ]</b></a> &nbsp;•&nbsp;
+    <a href="#-connect-with-me"><b>[ Connect ]</b></a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🩸 About Me
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="./assets/avatar.jpg" alt="Abdullah Al Noman - 3D Developer Avatar" width="100%" style="border-radius: 16px; border: 2px solid #00f2fe; box-shadow: 0 8px 24px rgba(0, 242, 254, 0.25);" />
-      <br/>
-      <sub><b>⚡ "Learn. Build. Improve. Repeat." 🚀</b></sub>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/avatar.jpg" alt="Abdullah Al Noman - 3D Cyber Developer Avatar" width="100%" style="border-radius: 18px; border: 2px solid #ff0033; box-shadow: 0 0 30px rgba(255, 0, 51, 0.4);" />
+      <br/><br/>
+      <b><font color="#ff0033">⚡ "Code • Build • Learn • Repeat." 🚀</font></b>
     </td>
-    <td width="64%" valign="top" style="padding-left: 20px;">
-      <p>🎓 I'm a passionate <b>Computer Science & Engineering (CSE)</b> student dedicated to building robust software architectures and solving complex real-world challenges.</p>
-      <p>💻 My primary focus is <b>Backend Development with Python & Django</b>, architecting clean, maintainable, and scalable web backends.</p>
-      <p>🌱 Currently leveling up in <b>Django REST Framework (DRF)</b>, designing RESTful APIs, and mastering database engineering with <b>PostgreSQL</b>.</p>
-      <p>🧠 Continuous learner practicing <b>Data Structures & Algorithms (DSA)</b> to write efficient and optimized code.</p>
-      <p>🐛 <i>"I believe every bug is just another disguised opportunity to learn something new."</i> 💡</p>
+    <td width="62%" valign="top" style="padding-left: 24px;">
+      <p>🎓 I'm a passionate <b>Computer Science & Engineering (CSE)</b> student dedicated to engineering scalable backend systems, robust API pipelines, and high-performance server architectures.</p>
+      <p>💻 My core weapon is <b>Python & Django</b>, crafting production-grade backends with clean design patterns and maintainable codebases.</p>
+      <p>🛡️ Currently pushing the limits of <b>Django REST Framework (DRF)</b>, building secured RESTful micro-endpoints with JWT authentication and rate limiting.</p>
+      <p>🗄️ Deepening database expertise in <b>PostgreSQL</b> — focusing on schema optimization, indexing strategies, and ACID-compliant transactional flows.</p>
+      <p>🧠 Relentless problem solver honing <b>Data Structures & Algorithms</b> to ensure minimal latency and optimal time/space complexity.</p>
+      <p>🐛 <i>"Every bug is just an unhandled edge-case waiting to teach you a masterclass in system design."</i> 💡</p>
       <div align="left">
         <a href="https://my-portfolio-website-1-vhnr.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=2b000a" alt="Portfolio" />
         </a>
+        &nbsp;
         <a href="https://github.com/AbdullahNoman-01?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/📂_My_Repositories-Explore-4FACFE?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+          <img src="https://img.shields.io/badge/📂_Repositories-000000?style=for-the-badge&logo=github&logoColor=ff3366&labelColor=2b000a" alt="Repositories" />
         </a>
       </div>
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ---
 
-### 🛠️ Tech Stack
+### 🖥️ Cyber Terminal & Battle Station
+
+<div align="center">
+
+```bash
+noman@core-server:~$ cat profile.json
+{
+  "developer": "Abdullah Al Noman",
+  "education": "B.Sc. in Computer Science & Engineering (CSE)",
+  "specialization": "Backend Engineering & API Architecture",
+  "primary_stack": ["Python 3.12+", "Django", "Django REST Framework", "PostgreSQL"],
+  "architectural_style": ["RESTful", "Modular MVT", "Service Layer", "Clean Architecture"],
+  "database_philosophy": "Strict Relational Modeling, Index Optimization & ACID Integrity",
+  "security_practices": ["JWT Authentication", "Role-Based Access Control", "Rate Limiting", "CORS/CSRF"],
+  "current_status": "Architecting Scalable Micro-APIs & Cracking Complex DSA"
+}
+
+noman@core-server:~$ python3 -m backend.metrics --verbose
+[✓] API Response Latency  : < 120ms (Optimized Querysets & Lazy Evaluation)
+[✓] ORM Optimization     : select_related & prefetch_related for zero N+1 queries
+[✓] Security Status       : Hardened Auth Tokens, Environment Isolation & Strict CORS
+[✓] Deployment Pipeline   : Production Live on Render Cloud with PostgreSQL DB
+```
+
+</div>
+
+---
+
+### ⚡ Backend Architecture & Engineering Pipeline
+
+<div align="center">
+  <p><b>How I architect end-to-end backend workflows from incoming requests to database persistence:</b></p>
+</div>
+
+```mermaid
+flowchart LR
+    %% Modern Red & Black Theme Styling
+    classDef client fill:#000000,stroke:#ff0033,stroke-width:2px,color:#ffffff;
+    classDef api fill:#1a0005,stroke:#ff0033,stroke-width:2px,color:#ffffff;
+    classDef auth fill:#2b000a,stroke:#ff3366,stroke-width:2px,color:#ffffff;
+    classDef logic fill:#1a0005,stroke:#ff0033,stroke-width:2px,color:#ffffff;
+    classDef db fill:#000000,stroke:#ff0033,stroke-width:2px,color:#ffffff;
+
+    Client["🌐 Client / Frontend<br/>(React / Web / Mobile)"]:::client
+    Gateway["🛡️ Django REST API<br/>(URL Routing & Views)"]:::api
+    Auth["🔐 Security & Auth<br/>(JWT / Permissions / Throttling)"]:::auth
+    Service["⚙️ Business Logic<br/>(Serializers & Services)"]:::logic
+    Database["🗄️ PostgreSQL<br/>(Django ORM & Transactions)"]:::db
+
+    Client -->|HTTP / JSON Requests| Gateway
+    Gateway -->|Token Validation| Auth
+    Auth -->|Validated Context| Service
+    Service -->|Optimized Queries| Database
+    Database -.->|JSON Serialized Response| Client
+```
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr style="background-color: #0d0003; color: #ff0033;">
+    <th width="25%" align="left">🛡️ 1. API Architecture</th>
+    <th width="25%" align="left">🔐 2. Security & Auth</th>
+    <th width="25%" align="left">🗄️ 3. Database Design</th>
+    <th width="25%" align="left">🚀 4. Performance Tuning</th>
+  </tr>
+  <tr style="background-color: #000000; color: #e6e6e6;">
+    <td valign="top">Designing modular, scalable RESTful endpoints with DRF ViewSets, custom Serializers, and clean URL routers.</td>
+    <td valign="top">Implementing JSON Web Tokens (JWT), role-based permissions, request throttling, and safe credentials isolation.</td>
+    <td valign="top">Schema normalization, PostgreSQL foreign key constraints, migration workflows, and indexing high-traffic columns.</td>
+    <td valign="top">Eliminating N+1 query bottlenecks via <code>select_related</code> and <code>prefetch_related</code> for lightning performance.</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -75,195 +163,116 @@
 
   <br/><br/>
 
-  <!-- Categorized Modern Badges -->
+  <!-- Categorized Modern Badges in Red & Black Theme -->
   <table border="0" cellpadding="8" cellspacing="0" width="100%">
     <tr>
-      <td width="28%" align="right"><b>🐍 Languages & Backend</b></td>
+      <td width="28%" align="right"><b><font color="#ff0033">🐍 Languages & Core</font></b></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
-        <img src="https://img.shields.io/badge/RESTful_APIs-00F2FE?style=flat-square&logo=fastapi&logoColor=black" alt="REST APIs" />
-        <img src="https://img.shields.io/badge/OOP_&_MVT-161B22?style=flat-square&logo=codereview&logoColor=00F2FE" alt="OOP" />
+        <img src="https://img.shields.io/badge/Python_3.12+-000000?style=for-the-badge&logo=python&logoColor=ff0033&labelColor=1a0005" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=ff0033&labelColor=1a0005" alt="Django" />
+        <img src="https://img.shields.io/badge/Django_REST_Framework-000000?style=for-the-badge&logo=django&logoColor=ff3366&labelColor=2b000a" alt="DRF" />
+        <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=ff0033&labelColor=1a0005" alt="REST APIs" />
       </td>
     </tr>
     <tr>
-      <td width="28%" align="right"><b>🗄️ Databases & ORM</b></td>
+      <td width="28%" align="right"><b><font color="#ff0033">🗄️ Database & ORM</font></b></td>
       <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=databricks&logoColor=white" alt="Django ORM" />
-        <img src="https://img.shields.io/badge/Relational_Modeling-161B22?style=flat-square&logo=diagramsdotnet&logoColor=4FACFE" alt="Modeling" />
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0033&labelColor=1a0005" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ff3366&labelColor=1a0005" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Django_ORM-000000?style=for-the-badge&logo=databricks&logoColor=ff0033&labelColor=1a0005" alt="Django ORM" />
+        <img src="https://img.shields.io/badge/Schema_Design-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=ff3366&labelColor=1a0005" alt="Schema" />
       </td>
     </tr>
     <tr>
-      <td width="28%" align="right"><b>🌐 Frontend & UI</b></td>
+      <td width="28%" align="right"><b><font color="#ff0033">🌐 Frontend & Web</font></b></td>
       <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img src="https://img.shields.io/badge/Responsive_Design-161B22?style=flat-square&logo=responsive&logoColor=00FF88" alt="Responsive" />
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff0033&labelColor=1a0005" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff0033&labelColor=1a0005" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript_ES6+-000000?style=for-the-badge&logo=javascript&logoColor=ff3366&labelColor=1a0005" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff0033&labelColor=1a0005" alt="Bootstrap" />
       </td>
     </tr>
     <tr>
-      <td width="28%" align="right"><b>🔧 Tools & DevOps</b></td>
+      <td width="28%" align="right"><b><font color="#ff0033">🔧 Tools & Deployment</font></b></td>
       <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0033&labelColor=1a0005" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0005" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=ff3366&labelColor=1a0005" alt="Postman" />
+        <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=ff0033&labelColor=1a0005" alt="Render" />
+        <img src="https://img.shields.io/badge/Linux_Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ff3366&labelColor=1a0005" alt="Linux" />
+        <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff0033&labelColor=1a0005" alt="VS Code" />
       </td>
     </tr>
   </table>
 
 </div>
 
----
+<br/>
 
-### 📌 Featured Projects
-
-<div align="center">
-  <p>Here are some of my highlighted projects demonstrating full-stack engineering, API architecture, and database systems:</p>
-</div>
-
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr style="background-color: #161b22; color: #00f2fe;">
-      <th align="left">🚀 Project</th>
-      <th align="left">📝 Description</th>
-      <th align="left">🛠️ Tech Stack</th>
-      <th align="center">🔗 Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🌐 Personal Portfolio Website</b></td>
-      <td>Dynamic portfolio platform with automated project showcases, contact forms, and database-driven content.</td>
-      <td><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>HTML/CSS/JS</code></td>
-      <td align="center">
-        <a href="https://my-portfolio-website-1-vhnr.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=flat-square&logo=render&logoColor=black" alt="Live Demo" /></a>
-        <br/>
-        <a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website" target="_blank"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🏦 Mini Bank Management API</b></td>
-      <td>RESTful banking backend featuring user authentication, balance inquiries, deposit/withdraw operations, and transaction audit trails.</td>
-      <td><code>Python</code> <code>Django REST Framework</code> <code>JWT</code> <code>SQLite</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🍽️ Restaurant Client Portal</b></td>
-      <td>Interactive client-facing platform showcasing restaurant menus, online ordering demos, and responsive customer UI.</td>
-      <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>UI/UX</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/Restaurant-Website-Client-Demo" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🏠 Property Rental Management</b></td>
-      <td>Real estate backend system managing tenants, properties, rental contracts, and lease statuses.</td>
-      <td><code>Python</code> <code>Django</code> <code>Relational DB</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/Property-Rental-Management-System" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>📦 Simple Product Catalog API</b></td>
-      <td>Scalable CRUD product management REST API with filtering, sorting, pagination, and thorough endpoint validation.</td>
-      <td><code>Python</code> <code>Django REST Framework</code> <code>Postman</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/Build-a-Simple-Product-API" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>⛅ Real-Time Weather & Currency Fetcher</b></td>
-      <td>Automated script fetching external API data, handling rate limits, caching responses, and rendering live metrics.</td>
-      <td><code>Python</code> <code>REST APIs</code> <code>JSON Parsing</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/assignment-4-Real-Time-Weather---Currency-Data-Fetcher" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🛍️ MANMA E-Commerce Platform</b></td>
-      <td>Full-featured, responsive e-commerce web interface with product catalogs, shopping cart experience, and checkout workflow.</td>
-      <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/Ecommarce_final_Project-MANMA-" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔍 Lost & Found Management System</b></td>
-      <td>Community-driven item recovery portal enabling users to report, search, and claim lost valuables.</td>
-      <td><code>Python / Web</code> <code>CSS3</code> <code>Responsive UI</code></td>
-      <td align="center">
-        <a href="https://github.com/AbdullahNoman-01/Lost-Found-Management-Project" target="_blank"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics & Trophies
 
 <div align="center">
 
   <!-- GitHub Trophy Showcase -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdullahNoman-01&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin_w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AbdullahNoman-01&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin_w=10" alt="GitHub Trophies" />
   </a>
 
   <br/><br/>
 
-  <!-- Stats & Streak Cards side-by-side -->
-  <table border="0" cellpadding="0" cellspacing="4">
+  <!-- Stats & Streak Cards side-by-side in Red & Black Theme -->
+  <table border="0" cellpadding="0" cellspacing="6">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=AbdullahNoman-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe" alt="Abdullah's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AbdullahNoman-01&show_icons=true&theme=blood&hide_border=false&border_color=ff0033&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033" alt="Abdullah's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=AbdullahNoman-01&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=AbdullahNoman-01&theme=blood&hide_border=false&border=ff0033&background=000000&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card (Blood Red / Dark) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNoman-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNoman-01&layout=compact&theme=blood&hide_border=false&border_color=ff0033&bg_color=000000&title_color=ff0033&text_color=ffffff" alt="Top Languages" />
   </p>
 
-  <!-- Interactive Contribution Activity Graph -->
+  <!-- Interactive Contribution Activity Graph (Red Neon Line) -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahNoman-01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f2fe&line=00f2fe&point=4facfe" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahNoman-01&theme=github-dark&hide_border=false&border=ff0033&bg_color=000000&color=ff0033&line=ff0033&point=ff3366" alt="Activity Graph" width="95%" />
   </p>
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 🐍 Contribution Activity Snake (Crimson Red & Dark)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" onerror="this.src='https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg'" width="100%" />
+  <img src="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" onerror="this.src='https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg'" width="100%" />
 </div>
+
+<br/>
+
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
-### 🎯 Current Mission & Roadmap
+### 🎯 Current Mission & 2026/2027 Goals
 
 ```yaml
-Current Roadmap:
-  - 🚀 Specialization: Deepening Django REST Framework & Advanced API Architectures
-  - 🗄️ Database Mastery: Complex SQL queries, PostgreSQL Indexing & Performance Tuning
-  - 🧠 Computer Science: Advancing Data Structures, Algorithms & LeetCode Practice
-  - ☁️ Cloud & DevOps: Docker containerization, CI/CD Pipelines & Cloud Deployment
-  - 💼 Career Goal: Contributing to high-impact production software as a Backend Engineer
+Current Backend Mission:
+  - 🩸 Advanced Architecture: Master Distributed Systems & Asynchronous Task Processing with Celery/Redis
+  - ⚡ Microservices: Building Independent High-Speed Microservices with DRF & Fast API Patterns
+  - 🗄️ PostgreSQL Mastery: Partitioning, Replication, Advanced Query Profiling & Index Optimization
+  - ☁️ Cloud & DevOps: Containerizing Microservices with Docker & Automating Multi-Stage CI/CD
+  - 🧠 Competitive DSA: Mastering Graph Algorithms, Dynamic Programming & Tree Traversal on LeetCode
 ```
 
 ---
@@ -272,35 +281,35 @@ Current Roadmap:
 
 <div align="center">
 
-  <p>I'm always excited to discuss backend development, software architecture, open-source projects, and new opportunities!</p>
+  <p><b>Interested in collaborating on backend architectures, API engineering, or open source? Let's talk!</b></p>
 
   <a href="https://my-portfolio-website-1-vhnr.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=2b000a" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://github.com/AbdullahNoman-01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2b000a" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdullah-al-noman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&labelColor=2b000a" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:abdullahalnoman.cse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff3366&labelColor=2b000a" alt="Email" />
   </a>
 
   <br/><br/>
 
-  <!-- Dynamic Quote Card -->
+  <!-- Dynamic Quote Card (Dark Theme) -->
   <a href="https://github.com/AbdullahNoman-01">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Tech Quote" />
   </a>
 
   <br/><br/>
 
   <p align="center">
-    <b>⭐ Thanks for visiting my profile! Let's build something extraordinary together. ⭐</b>
+    <b><font color="#ff0033">⭐ Thanks for visiting my profile! Let's engineer scalable systems together. ⭐</font></b>
     <br/>
     <sub>💻 Code • 🚀 Build • 📚 Learn • 🔥 Repeat</sub>
   </p>
