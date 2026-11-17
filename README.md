@@ -1,13 +1,15 @@
 <div align="center">
 
-  <!-- 3D Red & Black Header Banner -->
-  <img src="./assets/banner.jpg" alt="Abdullah Al Noman - Backend Engineer Cyberpunk Banner" width="100%" style="border-radius: 14px; border: 2px solid #ff0033; box-shadow: 0 0 35px rgba(255, 0, 51, 0.45);" />
+  <!-- Futuristic Cyberpunk Vector Banner (Red & Dark Obsidian) -->
+  <a href="https://github.com/AbdullahNoman-01">
+    <img src="./assets/banner.svg" alt="Abdullah Al Noman - Backend Systems Architect" width="100%" style="border-radius: 14px; box-shadow: 0 0 35px rgba(255, 0, 51, 0.45);" />
+  </a>
 
   <br/><br/>
 
   <!-- Dynamic Typing SVG Headline (Neon Crimson Red) -->
   <a href="https://github.com/AbdullahNoman-01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1+Hi%2C+I'm+Abdullah+Al+Noman;%F0%9F%94%A5+CSE+Student+%7C+Python+%26+Django+Backend+Developer;%F0%9F%9B%A1%EF%B8%8F+Designing+High-Performance+REST+APIs;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%26+Database+Architecture+Specialist;%F0%9F%9A%80+%22Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1+Hi%2C+I'm+Abdullah+Al+Noman;%F0%9F%94%A5+CSE+Student+%7C+Python+%26+Django+Backend+Developer;%F0%9F%9B%A1%EF%B8%8F+Designing+High-Performance+REST+APIs;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%26+Database+Architecture+Specialist;%F0%9F%9A%80+%22Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat.%22" alt="Typing SVG Headline" />
   </a>
 
   <br/>
@@ -24,15 +26,16 @@
   <!-- Glowing Animated Red Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  <!-- Navigation Anchor Links -->
+  <!-- Interactive Navigation Anchor Links -->
   <p align="center">
-    <a href="#-about-me"><b>[ About Me ]</b></a> &nbsp;•&nbsp;
-    <a href="#%EF%B8%8F-cyber-terminal--battle-station"><b>[ Battle Station ]</b></a> &nbsp;•&nbsp;
-    <a href="#-backend-core--architecture-pipeline"><b>[ 3D Architecture ]</b></a> &nbsp;•&nbsp;
-    <a href="#-featured-repositories"><b>[ Highlighted Repos ]</b></a> &nbsp;•&nbsp;
-    <a href="#%EF%B8%8F-tech-arsenal"><b>[ Tech Arsenal ]</b></a> &nbsp;•&nbsp;
-    <a href="#-github-live-analytics"><b>[ Analytics ]</b></a> &nbsp;•&nbsp;
-    <a href="#-connect-with-me"><b>[ Connect ]</b></a>
+    <a href="#-about-me"><b>[ 🩸 About Me ]</b></a> &nbsp;•&nbsp;
+    <a href="#%EF%B8%8F-cyber-terminal--battle-station"><b>[ 🖥️ Terminal ]</b></a> &nbsp;•&nbsp;
+    <a href="#-backend-core--architecture-pipeline"><b>[ ⚡ 3D Architecture ]</b></a> &nbsp;•&nbsp;
+    <a href="#-contribution-activity--snake-game"><b>[ 🐍 Snake Game ]</b></a> &nbsp;•&nbsp;
+    <a href="#%EF%B8%8F-tech-arsenal"><b>[ 🛠️ Tech Arsenal ]</b></a> &nbsp;•&nbsp;
+    <a href="#-github-live-analytics"><b>[ 📊 Analytics ]</b></a> &nbsp;•&nbsp;
+    <a href="#-featured-repositories"><b>[ 📌 Repositories ]</b></a> &nbsp;•&nbsp;
+    <a href="#-connect-with-me"><b>[ 📫 Connect ]</b></a>
   </p>
 
 </div>
@@ -44,7 +47,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="38%" align="center" valign="middle">
-      <img src="./assets/avatar.jpg" alt="Abdullah Al Noman - 3D Cyber Developer Avatar" width="100%" style="border-radius: 18px; border: 2px solid #ff0033; box-shadow: 0 0 30px rgba(255, 0, 51, 0.4);" />
+      <!-- Dot-Matrix Holographic Portrait of Abdullah Al Noman -->
+      <a href="https://github.com/AbdullahNoman-01">
+        <img src="./assets/avatar.png" alt="Abdullah Al Noman - Dot Matrix Cyber Portrait" width="100%" style="border-radius: 18px; border: 2px solid #ff0033; box-shadow: 0 0 32px rgba(255, 0, 51, 0.45);" />
+      </a>
       <br/><br/>
       <b><font color="#ff0033">⚡ "Code • Build • Learn • Repeat." 🚀</font></b>
     </td>
@@ -55,6 +61,7 @@
       <p>🗄️ Deepening database expertise in <b>PostgreSQL</b> — focusing on schema optimization, indexing strategies, and ACID-compliant transactional flows.</p>
       <p>🧠 Relentless problem solver honing <b>Data Structures & Algorithms</b> to ensure minimal latency and optimal time/space complexity.</p>
       <p>🐛 <i>"Every bug is just an unhandled edge-case waiting to teach you a masterclass in system design."</i> 💡</p>
+      <br/>
       <div align="left">
         <a href="https://my-portfolio-website-1-vhnr.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=2b000a" alt="Portfolio" />
@@ -62,6 +69,10 @@
         &nbsp;
         <a href="https://github.com/AbdullahNoman-01?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/📂_Repositories-000000?style=for-the-badge&logo=github&logoColor=ff3366&labelColor=2b000a" alt="Repositories" />
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/abdullah-al-noman" target="_blank">
+          <img src="https://img.shields.io/badge/💼_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&labelColor=2b000a" alt="LinkedIn" />
         </a>
       </div>
     </td>
@@ -80,16 +91,18 @@
 <div align="center">
 
 ```bash
-noman@core-server:~$ cat profile.json
+🔴 🟡 🟢  noman@core-server: ~ (x86_64 / Linux Production Node)
+─────────────────────────────────────────────────────────────────────────────
+noman@core-server:~$ cat developer.json
 {
   "developer": "Abdullah Al Noman",
   "education": "B.Sc. in Computer Science & Engineering (CSE)",
-  "specialization": "Backend Engineering & API Architecture",
+  "specialization": "Backend Engineering & Scalable API Architecture",
   "primary_stack": ["Python 3.12+", "Django", "Django REST Framework", "PostgreSQL"],
   "architectural_style": ["RESTful", "Modular MVT", "Service Layer", "Clean Architecture"],
   "database_philosophy": "Strict Relational Modeling, Index Optimization & ACID Integrity",
-  "security_practices": ["JWT Authentication", "Role-Based Access Control", "Rate Limiting", "CORS/CSRF"],
-  "current_status": "Architecting Scalable Micro-APIs & Cracking Complex DSA"
+  "security_practices": ["JWT Authentication", "Role-Based Access Control (RBAC)", "Rate Limiting", "CORS/CSRF"],
+  "current_status": "Architecting Scalable Micro-APIs & Mastering Advanced Algorithms"
 }
 
 noman@core-server:~$ python3 -m backend.metrics --verbose
@@ -107,8 +120,8 @@ noman@core-server:~$ python3 -m backend.metrics --verbose
 
 <div align="center">
 
-  <!-- 3D Backend Core Neural Render -->
-  <img src="./assets/backend_core.jpg" alt="3D Backend Neural Engine Core" width="100%" style="border-radius: 14px; border: 2px solid #ff0033; box-shadow: 0 0 30px rgba(255, 0, 51, 0.35);" />
+  <!-- 3D Backend Core Neural Render (Preserved as requested) -->
+  <img src="./assets/backend_core.jpg" alt="3D Backend Neural Engine Core" width="100%" style="border-radius: 14px; border: 2px solid #ff0033; box-shadow: 0 0 32px rgba(255, 0, 51, 0.4);" />
   <br/>
   <sub><b><font color="#ff0033">⚙️ 3D Neural Engine Core: High-Throughput Python Microservices & PostgreSQL Mesh</font></b></sub>
 
@@ -160,25 +173,23 @@ flowchart LR
 
 ---
 
-### 📌 Featured Repositories
+### 🐍 Contribution Activity & Snake Game
 
 <div align="center">
-  <p><b>Explore live repositories showcasing clean API design, authentication, and full-stack architecture:</b></p>
 
-  <table border="0" cellpadding="4" cellspacing="4">
-    <tr>
-      <td>
-        <a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=Mini-Bank-Management-System-API&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Mini Bank API" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=My-Portfolio-Website&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Portfolio Website" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <b><font color="#ff0033">⚡ Autonomous GitHub Contribution Eater</font> — Snacking through commits with Pythonic precision</b>
+  </p>
+
+  <!-- GitHub Contribution Grid Snake Animation (Dark Mode Crimson Red Palette) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake.svg">
+    <img alt="Abdullah's Contribution Grid Snake" src="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 12px; border: 1px solid #ff0033; box-shadow: 0 0 25px rgba(255, 0, 51, 0.35);" />
+  </picture>
+
+  <br/>
+  <sub><i>🤖 Dynamically generated every 24 hours via GitHub Actions (<code>.github/workflows/snake.yml</code>)</i></sub>
 
 </div>
 
@@ -193,14 +204,14 @@ flowchart LR
 
 <div align="center">
 
-  <!-- Interactive Skill Icons Row -->
+  <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,html,css,js,bootstrap,tailwind,git,github,postman,vscode,linux&theme=dark" alt="Skill Icons" />
   </a>
 
   <br/><br/>
 
-  <!-- Categorized Modern Badges in Red & Black Theme -->
+  <!-- Categorized Modern Badges in Red & Obsidian Dark Theme -->
   <table border="0" cellpadding="8" cellspacing="0" width="100%">
     <tr>
       <td width="28%" align="right"><b><font color="#ff0033">🐍 Languages & Core</font></b></td>
@@ -217,7 +228,7 @@ flowchart LR
         <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0033&labelColor=1a0005" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ff3366&labelColor=1a0005" alt="SQLite" />
         <img src="https://img.shields.io/badge/Django_ORM-000000?style=for-the-badge&logo=databricks&logoColor=ff0033&labelColor=1a0005" alt="Django ORM" />
-        <img src="https://img.shields.io/badge/Schema_Design-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=ff3366&labelColor=1a0005" alt="Schema" />
+        <img src="https://img.shields.io/badge/Schema_Design-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=ff3366&labelColor=1a0005" alt="Schema Design" />
       </td>
     </tr>
     <tr>
@@ -227,6 +238,7 @@ flowchart LR
         <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff0033&labelColor=1a0005" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript_ES6+-000000?style=for-the-badge&logo=javascript&logoColor=ff3366&labelColor=1a0005" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff0033&labelColor=1a0005" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ff3366&labelColor=1a0005" alt="Tailwind" />
       </td>
     </tr>
     <tr>
@@ -255,7 +267,7 @@ flowchart LR
 
 <div align="center">
 
-  <!-- Live Achievements & Telemetry Grid (100% Guaranteed Uptime) -->
+  <!-- Live Achievements & Telemetry Grid -->
   <p align="center">
     <img src="https://img.shields.io/badge/Contributions-139%2B_Total-ff0033?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Contributions" />
     <img src="https://img.shields.io/badge/Current_Streak-Active_🔥-ff0033?style=for-the-badge&logo=flame&logoColor=red&labelColor=000000" alt="Streak" />
@@ -281,6 +293,55 @@ flowchart LR
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNoman-01&layout=compact&bg_color=000000&title_color=ff0033&text_color=ffffff&border_color=ff0033" alt="Top Languages" />
   </p>
+
+</div>
+
+<br/>
+
+<!-- Glowing Animated Red Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+### 📌 Featured Repositories
+
+<div align="center">
+  <p><b>Explore production-grade repositories showcasing clean API design, authentication, and backend architecture:</b></p>
+
+  <table border="0" cellpadding="4" cellspacing="4">
+    <tr>
+      <td>
+        <a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=Mini-Bank-Management-System-API&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Mini Bank API" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=My-Portfolio-Website&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Portfolio Website" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" border="0" cellpadding="6" cellspacing="0">
+    <tr style="background-color: #0d0003; color: #ff0033;">
+      <th width="35%" align="left">📦 Project Name</th>
+      <th width="35%" align="left">🛠️ Tech Stack</th>
+      <th width="30%" align="left">🚀 Key Highlight</th>
+    </tr>
+    <tr style="background-color: #000000; color: #e6e6e6;">
+      <td><b><a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API"><font color="#ff3366">Mini-Bank-Management-System-API</font></a></b></td>
+      <td>Python, Django, DRF, PostgreSQL, JWT</td>
+      <td>ACID transactions, atomic balance transfers & secured endpoints</td>
+    </tr>
+    <tr style="background-color: #050002; color: #e6e6e6;">
+      <td><b><a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website"><font color="#ff3366">My-Portfolio-Website</font></a></b></td>
+      <td>Django, HTML5, CSS3, JavaScript, Render</td>
+      <td>Full-stack responsive developer portfolio deployed on Render</td>
+    </tr>
+  </table>
 
 </div>
 
@@ -339,7 +400,7 @@ flowchart LR
 
 ---
 
-### 🎯 Current Mission & 2026/2027 Goals
+### 🎯 Current Mission & Roadmap
 
 ```yaml
 Current Backend Mission:
@@ -376,7 +437,7 @@ Current Backend Mission:
 
   <br/><br/>
 
-  <!-- Dynamic Quote Card (Dark Theme) -->
+  <!-- Dynamic Daily Tech Quote Card -->
   <a href="https://github.com/AbdullahNoman-01">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Tech Quote" />
   </a>
