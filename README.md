@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Futuristic Cyberpunk Vector Banner (Red & Dark Obsidian) -->
+  <!-- Futuristic Cyberpunk Banner (Red & Dark Obsidian) -->
   <a href="https://github.com/AbdullahNoman-01">
-    <img src="./assets/banner.svg" alt="Abdullah Al Noman - Backend Systems Architect" width="100%" style="border-radius: 14px; box-shadow: 0 0 35px rgba(255, 0, 51, 0.45);" />
+    <img src="./assets/banner.png" alt="Abdullah Al Noman - Backend Systems Architect" width="100%" />
   </a>
 
   <br/><br/>
@@ -47,9 +47,9 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="38%" align="center" valign="middle">
-      <!-- Dot-Matrix Holographic Portrait of Abdullah Al Noman -->
+      <!-- Monochrome White Dot & Dash Portrait on Pure Black Background -->
       <a href="https://github.com/AbdullahNoman-01">
-        <img src="./assets/avatar.png" alt="Abdullah Al Noman - Dot Matrix Cyber Portrait" width="100%" style="border-radius: 18px; border: 2px solid #ff0033; box-shadow: 0 0 32px rgba(255, 0, 51, 0.45);" />
+        <img src="./assets/avatar.png" alt="Abdullah Al Noman - White Dot and Dash Portrait" width="100%" />
       </a>
       <br/><br/>
       <b><font color="#ff0033">⚡ "Code • Build • Learn • Repeat." 🚀</font></b>
@@ -63,7 +63,7 @@
       <p>🐛 <i>"Every bug is just an unhandled edge-case waiting to teach you a masterclass in system design."</i> 💡</p>
       <br/>
       <div align="left">
-        <a href="https://my-portfolio-website-1-vhnr.onrender.com/" target="_blank">
+        <a href="https://abdullahnoman-me-1.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=2b000a" alt="Portfolio" />
         </a>
         &nbsp;
@@ -121,7 +121,7 @@ noman@core-server:~$ python3 -m backend.metrics --verbose
 <div align="center">
 
   <!-- 3D Backend Core Neural Render (Preserved as requested) -->
-  <img src="./assets/backend_core.jpg" alt="3D Backend Neural Engine Core" width="100%" style="border-radius: 14px; border: 2px solid #ff0033; box-shadow: 0 0 32px rgba(255, 0, 51, 0.4);" />
+  <img src="./assets/backend_core.jpg" alt="3D Backend Neural Engine Core" width="100%" />
   <br/>
   <sub><b><font color="#ff0033">⚙️ 3D Neural Engine Core: High-Throughput Python Microservices & PostgreSQL Mesh</font></b></sub>
 
@@ -181,15 +181,11 @@ flowchart LR
     <b><font color="#ff0033">⚡ Autonomous GitHub Contribution Eater</font> — Snacking through commits with Pythonic precision</b>
   </p>
 
-  <!-- GitHub Contribution Grid Snake Animation (Dark Mode Crimson Red Palette) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake.svg">
-    <img alt="Abdullah's Contribution Grid Snake" src="https://raw.githubusercontent.com/AbdullahNoman-01/AbdullahNoman-01/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 12px; border: 1px solid #ff0033; box-shadow: 0 0 25px rgba(255, 0, 51, 0.35);" />
-  </picture>
+  <!-- 100% Guaranteed Local & Fallback Snake Animation (Dark Red Theme) -->
+  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Abdullah's Contribution Grid Snake" width="100%" />
 
   <br/>
-  <sub><i>🤖 Dynamically generated every 24 hours via GitHub Actions (<code>.github/workflows/snake.yml</code>)</i></sub>
+  <sub><i>🤖 Dynamically synced via GitHub Actions (<code>.github/workflows/snake.yml</code>)</i></sub>
 
 </div>
 
@@ -325,7 +321,7 @@ flowchart LR
 
   <br/>
 
-  <table width="100%" border="0" cellpadding="6" cellspacing="0">
+  <table width="100%" border="0" cellpadding="8" cellspacing="0">
     <tr style="background-color: #0d0003; color: #ff0033;">
       <th width="35%" align="left">📦 Project Name</th>
       <th width="35%" align="left">🛠️ Tech Stack</th>
@@ -419,7 +415,7 @@ Current Backend Mission:
 
   <p><b>Interested in collaborating on backend architectures, API engineering, or open source? Let's talk!</b></p>
 
-  <a href="https://my-portfolio-website-1-vhnr.onrender.com/" target="_blank">
+  <a href="https://abdullahnoman-me-1.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=2b000a" alt="Portfolio" />
   </a>
   &nbsp;
@@ -437,10 +433,16 @@ Current Backend Mission:
 
   <br/><br/>
 
-  <!-- Dynamic Daily Tech Quote Card -->
-  <a href="https://github.com/AbdullahNoman-01">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Tech Quote" />
-  </a>
+  <!-- High Reliability Engineering Quote Banner -->
+  <table width="85%" border="0" cellpadding="12" cellspacing="0">
+    <tr style="background-color: #0d0003; border: 1px solid #ff0033;">
+      <td align="center">
+        <b><font color="#ff0033" size="3">💡 "Simplicity is prerequisite for reliability."</font></b>
+        <br/>
+        <sub><font color="#a0a0a0">— Edsger W. Dijkstra • System Architecture Philosophy</font></sub>
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
