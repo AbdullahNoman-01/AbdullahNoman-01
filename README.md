@@ -23,8 +23,7 @@
     <img src="https://img.shields.io/badge/Status-Active%20&%20Building-000000?style=for-the-badge&logo=githubactions&logoColor=ff0033&labelColor=1a0005" alt="Status" />
   </p>
 
-  <!-- Glowing Animated Red Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <hr style="border: 0; height: 1px; background: #ff0033;" />
 
   <!-- Interactive Navigation Anchor Links -->
   <p align="center">
@@ -47,9 +46,9 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="38%" align="center" valign="middle">
-      <!-- Monochrome White Dot & Dash Portrait on Pure Black Background -->
+      <!-- WSJ / Woodcut Style Engraved Line Portrait of Abdullah Al Noman -->
       <a href="https://github.com/AbdullahNoman-01">
-        <img src="./assets/avatar.png" alt="Abdullah Al Noman - White Dot and Dash Portrait" width="100%" />
+        <img src="./assets/avatar.png" alt="Abdullah Al Noman - Engraved Woodcut Portrait" width="100%" style="border-radius: 12px; border: 2px solid #ff0033;" />
       </a>
       <br/><br/>
       <b><font color="#ff0033">⚡ "Code • Build • Learn • Repeat." 🚀</font></b>
@@ -79,11 +78,6 @@
   </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ---
 
 ### 🖥️ Cyber Terminal & Battle Station
@@ -96,6 +90,7 @@
 noman@core-server:~$ cat developer.json
 {
   "developer": "Abdullah Al Noman",
+  "portfolio": "https://abdullahnoman-me-1.onrender.com/",
   "education": "B.Sc. in Computer Science & Engineering (CSE)",
   "specialization": "Backend Engineering & Scalable API Architecture",
   "primary_stack": ["Python 3.12+", "Django", "Django REST Framework", "PostgreSQL"],
@@ -166,11 +161,6 @@ flowchart LR
   </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ---
 
 ### 🐍 Contribution Activity & Snake Game
@@ -181,18 +171,13 @@ flowchart LR
     <b><font color="#ff0033">⚡ Autonomous GitHub Contribution Eater</font> — Snacking through commits with Pythonic precision</b>
   </p>
 
-  <!-- 100% Guaranteed Local & Fallback Snake Animation (Dark Red Theme) -->
+  <!-- Live Moving Snake Animation (Looping across 71 coordinates) -->
   <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Abdullah's Contribution Grid Snake" width="100%" />
 
   <br/>
-  <sub><i>🤖 Dynamically synced via GitHub Actions (<code>.github/workflows/snake.yml</code>)</i></sub>
+  <sub><i>🤖 Dynamically animated & synced via GitHub Actions (<code>.github/workflows/snake.yml</code>)</i></sub>
 
 </div>
-
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
@@ -252,11 +237,6 @@ flowchart LR
 
 </div>
 
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ---
 
 ### 📊 GitHub Live Analytics
@@ -292,34 +272,12 @@ flowchart LR
 
 </div>
 
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ---
 
 ### 📌 Featured Repositories
 
 <div align="center">
   <p><b>Explore production-grade repositories showcasing clean API design, authentication, and backend architecture:</b></p>
-
-  <table border="0" cellpadding="4" cellspacing="4">
-    <tr>
-      <td>
-        <a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=Mini-Bank-Management-System-API&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Mini Bank API" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNoman-01&repo=My-Portfolio-Website&bg_color=000000&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=ff0033" alt="Portfolio Website" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
 
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
     <tr style="background-color: #0d0003; color: #ff0033;">
@@ -340,11 +298,6 @@ flowchart LR
   </table>
 
 </div>
-
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
@@ -377,11 +330,6 @@ flowchart LR
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- Glowing Animated Red Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
