@@ -33,7 +33,6 @@
     <a href="#-contribution-activity--snake-game"><b>[ 🐍 Snake Game ]</b></a> &nbsp;•&nbsp;
     <a href="#%EF%B8%8F-tech-arsenal"><b>[ 🛠️ Tech Arsenal ]</b></a> &nbsp;•&nbsp;
     <a href="#-github-live-analytics"><b>[ 📊 Analytics ]</b></a> &nbsp;•&nbsp;
-    <a href="#-featured-repositories"><b>[ 📌 Repositories ]</b></a> &nbsp;•&nbsp;
     <a href="#-connect-with-me"><b>[ 📫 Connect ]</b></a>
   </p>
 
@@ -70,7 +69,7 @@
           <img src="https://img.shields.io/badge/📂_Repositories-000000?style=for-the-badge&logo=github&logoColor=ff3366&labelColor=2b000a" alt="Repositories" />
         </a>
         &nbsp;
-        <a href="https://www.linkedin.com/in/abdullah-al-noman" target="_blank">
+        <a href="https://www.linkedin.com/in/abdullahnoman1/" target="_blank">
           <img src="https://img.shields.io/badge/💼_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&labelColor=2b000a" alt="LinkedIn" />
         </a>
       </div>
@@ -274,33 +273,6 @@ flowchart LR
 
 ---
 
-### 📌 Featured Repositories
-
-<div align="center">
-  <p><b>Explore production-grade repositories showcasing clean API design, authentication, and backend architecture:</b></p>
-
-  <table width="100%" border="0" cellpadding="8" cellspacing="0">
-    <tr style="background-color: #0d0003; color: #ff0033;">
-      <th width="35%" align="left">📦 Project Name</th>
-      <th width="35%" align="left">🛠️ Tech Stack</th>
-      <th width="30%" align="left">🚀 Key Highlight</th>
-    </tr>
-    <tr style="background-color: #000000; color: #e6e6e6;">
-      <td><b><a href="https://github.com/AbdullahNoman-01/Mini-Bank-Management-System-API"><font color="#ff3366">Mini-Bank-Management-System-API</font></a></b></td>
-      <td>Python, Django, DRF, PostgreSQL, JWT</td>
-      <td>ACID transactions, atomic balance transfers & secured endpoints</td>
-    </tr>
-    <tr style="background-color: #050002; color: #e6e6e6;">
-      <td><b><a href="https://github.com/AbdullahNoman-01/My-Portfolio-Website"><font color="#ff3366">My-Portfolio-Website</font></a></b></td>
-      <td>Django, HTML5, CSS3, JavaScript, Render</td>
-      <td>Full-stack responsive developer portfolio deployed on Render</td>
-    </tr>
-  </table>
-
-</div>
-
----
-
 ### 🛡️ Production Engineering Standards
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
@@ -371,7 +343,7 @@ Current Backend Mission:
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2b000a" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-al-noman" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullahnoman1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&labelColor=2b000a" alt="LinkedIn" />
   </a>
   &nbsp;
